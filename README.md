@@ -5,8 +5,8 @@ This repository contains an interactive **Power BI dashboard** that analyzes sur
 ---
 
 ## 🚀 Dashboard Preview
-*(<img width="1283" height="742" alt="image" src="https://github.com/user-attachments/assets/3a21712f-6741-4f51-9981-62a3b0f257be" />
-)*
+*<img width="1283" height="742" alt="image" src="https://github.com/user-attachments/assets/3a21712f-6741-4f51-9981-62a3b0f257be" />
+*
 
 ---
 
