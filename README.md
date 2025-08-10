@@ -71,6 +71,6 @@ This dashboard answers several key questions about the data profession:
 
 ## 📬 Contact & Connect
 
-- **LinkedIn:** [https://www.linkedin.com/in/srishankarlokanathan](https://www.linkedin.com/in/srishankarlokanathan)  
-- **Portfolio:** [https://srishankarlokanathan.github.io/](https://srishankarlokanathan.github.io/)  
-- **Email:** [srishankarlokanathan@gmail.com](mailto:srishankarlokanathan@gmail.com)  
+- **LinkedIn:** [https://www.linkedin.com/in/srishankar-lokanath-99a5b4252/](https://www.linkedin.com/in/srishankar-lokanath-99a5b4252/)  
+- **Portfolio:** [https://srishankar.netlify.app/](https://srishankar.netlify.app/)  
+- **Email:** [srishankarloknath@gmail.com](mailto:srishankarloknath@gmail.com)  
