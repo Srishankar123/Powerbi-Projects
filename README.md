@@ -1,80 +1,76 @@
-# 📊 Power BI Projects
+# 📊 Data Professional Survey Dashboard
 
-Welcome to the **Power BI Projects** repository! This collection showcases interactive and visually compelling dashboards built using **Microsoft Power BI**. These projects are based on real-world datasets and focus on data storytelling, KPI tracking, and actionable business insights.
-
----
-
-## 📁 Repository Contents
-
-- `Sales Performance Dashboard.pbix`
-- `HR Analytics Dashboard.pbix`
-- `Covid-19 Dashboard.pbix`
-- `README.md`
-
-> Note: PBIX files are Power BI project files. You can open them using the Power BI Desktop application.
+This repository contains an interactive **Power BI dashboard** that analyzes survey data from **630 data professionals**. The goal is to uncover insights into **demographics**, **compensation**, **job satisfaction**, and **popular technologies** within the data industry.
 
 ---
 
-## 📌 Project Overviews
-
-### 🛍️ Sales Performance Dashboard
-- **Dataset:** Retail sales data
-- **Insights Provided:**
-  - Region-wise and category-wise revenue trends
-  - Monthly sales comparison and profit analysis
-  - Key KPIs: Revenue, Profit Margin, Order Count
-  - Slicers for year, region, and product category
-
-### 👨‍💼 HR Analytics Dashboard
-- **Dataset:** Employee information and attrition data
-- **Highlights:**
-  - Gender and department distribution
-  - Attrition rate by job level and experience
-  - Tenure and hiring trend visuals
-  - Designed for HR decision-makers
-
-### 🦠 Covid-19 Global Dashboard
-- **Dataset:** Public COVID-19 data (from WHO/Johns Hopkins)
-- **Key Features:**
-  - Daily case trends and death rates by country
-  - Comparison of vaccination status
-  - Filters for countries, continents, and dates
-  - Visuals: Line charts, heat maps, KPI cards
+## 🚀 Dashboard Preview
+*(Insert a screenshot or GIF of your dashboard here)*
 
 ---
 
-## 🎯 Skills Demonstrated
+## 💡 Key Insights & Features
 
-- Power BI Desktop (Data, Model, and Report views)
-- DAX (Data Analysis Expressions) for calculated columns and measures
-- Relationships and data modeling
-- Advanced visuals: slicers, KPI indicators, matrix tables, drill-through
-- Data transformation using Power Query Editor
-- Dashboard design and layout principles
+This dashboard answers several key questions about the data profession:
 
----
+### **Professional Demographics**
+- **Geographical distribution:** Primarily **USA**, **India**, **Canada**, and the **UK**.  
+- **Average age of professionals:** **29.87 years**.
 
-## 🧰 Tools Used
+### **Compensation & Roles**
+- **Highest-paying job titles:**  
+  1. **Data Scientist** (highest average salary)  
+  2. **Data Engineer**  
+  3. **Data Architect**
+- **Satisfaction levels:**  
+  - **Work-life balance:** Moderate (average **5.74/10**)  
+  - **Salary satisfaction:** Lower (average **4.27/10**)
 
-- Power BI Desktop
-- Power Query Editor
-- DAX for business logic
-- External datasets from Kaggle / WHO / internal mock datasets
+### **Technology Trends**
+- **Most popular programming languages:**  
+  - **Python** dominates  
+  - **R** is a distant second
+- **Language preference by role:**  
+  - **Data Scientists** overwhelmingly favor Python
 
----
-
-## 🔗 Links
-
-- 🌐 [Portfolio Website](https://srishankar.netlify.app/)
-- 💼 [LinkedIn Profile](https://linkedin.com/in/srishankar-lokanath-99a5b4252)
-- 📫 Email: [srishankarloknath@gmail.com](mailto:srishankarloknath@gmail.com)
-
----
-
-## 📬 Want to Collaborate?
-
-If you're working on Power BI or data visualization projects and want to collaborate or need help, feel free to reach out or fork this repo.
+### **Career Insights**
+- **Difficulty breaking into the data industry:** Majority report it as **Difficult**.
 
 ---
 
-> ⭐️ **Star** this repository to support and follow updates!
+## 🛠️ Skills & Tools Demonstrated
+
+**Business Intelligence Tool:**  
+- **Microsoft Power BI**
+
+**Data Visualization:**  
+- Selected appropriate visuals: **Bar Charts**, **Donut Charts**, **Gauges**, **Treemaps**  
+- Applied effective dashboard **layout** and **storytelling** principles
+
+**Data Modeling:**  
+- Created relationships between datasets for **cross-filtering**
+
+**DAX (Data Analysis Expressions):**  
+- Developed measures for:
+  - Count of Survey Takers  
+  - Average Age  
+  - Average Salary
+
+**Data Analysis:**  
+- Transformed raw survey data into **actionable insights**
+
+---
+
+## 📂 How to Use
+
+1. Download the `.pbix` file from this repository.  
+2. Open it in **Microsoft Power BI Desktop**.  
+3. Interact with filters, slicers, and visuals to explore the data.
+
+---
+
+## 📬 Contact & Connect
+
+- **LinkedIn:** [https://www.linkedin.com/in/srishankarlokanathan](https://www.linkedin.com/in/srishankarlokanathan)  
+- **Portfolio:** [https://srishankarlokanathan.github.io/](https://srishankarlokanathan.github.io/)  
+- **Email:** [srishankarlokanathan@gmail.com](mailto:srishankarlokanathan@gmail.com)  
